@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gethertv&label=Profile%20views&color=0e75b6&style=flat" alt="gethertv" /> </p>
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 Part of my projects are available at [https://www.spigotmc.org/resources/authors/gethertv.571046/](https://www.spigotmc.org/resources/authors/gethertv.571046/)
 
